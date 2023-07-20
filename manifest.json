@@ -32,9 +32,7 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "storage",
-    "scripting",
-    "activeTab"
+    "storage"
   ],
   "background": {
     "service_worker": "background.js"
